@@ -1,29 +1,47 @@
-Aniket Banerjee
+# 👋 Hey there, I’m Aniket Banerjee
 
-**Aspiring Software & Game Developer | AI Enthusiast | Web Developer**
+🚀 A passionate BCA Student | Web Developer | Digital Hustler  
+💡 I build web applications, craft innovative solutions, and aim to reach 1 billion in net worth by 26.  
+🌱 Currently leveling up my skills in Full Stack Development and Tech Entrepreneurship.
 
-BCA student with a strong passion for crafting innovative software solutions, immersive game experiences, and intelligent systems. My current focus is on mastering C, C++, Python, and Java, alongside exploring the frontiers of Artificial Intelligence and Web Development. I am driven by a desire to transform complex challenges into elegant, functional code.
+---
 
-**🚀 Key Skills & Interests:**
+## 🛠️ Tech Stack
 
-* **Programming Languages:** C, C++, Python, Java, \[Mention specific web technologies like HTML, CSS, JavaScript, and any frameworks/libraries you're learning, e.g., React, Node.js]
-* **Development Areas:** Software Engineering, Game Development, Artificial Intelligence, Web Development
-* **Problem-Solving:** Adept at analyzing problems and architecting effective solutions.
-* **Continuous Learning:** Eager to embrace new technologies and methodologies.
+- 🔧 **Languages:** HTML, CSS, JavaScript  
+- 🌐 **Frameworks & Libraries:** Node.js, Express.js  
+- ⚡ **Frontend Tools:** Git, VS Code, Bootstrap  
+- 🗄️ **Database:** MySQL, MongoDB  
+- ☁️ **Deployment:** GitHub Pages, Netlify
 
-**💡 Currently Exploring:**
+---
 
-* Deepening expertise in core programming languages.
-* Advanced concepts in AI and Machine Learning.
-* Developing full-stack web applications.
-* Conceptualizing and prototyping innovative software and game projects.
+## 🌟 About Me
 
-**🤝 Let's Collaborate:**
+- 👨‍💻 Self-taught dev with an obsession for clean code  
+- 📚 Constantly learning, coding, and building things that matter  
+- 💬 Open to collaboration and new challenges  
+- 🎯 Focused on delivering robust, scalable solutions
 
-I am actively seeking opportunities to contribute to open-source projects or collaborate on innovative ventures in software engineering, game development, AI, or web development.
+---
 
-**📫 Get in Touch:**
+## 📫 Connect with me
 
-* **Portfolio:** [https://founder-in-black.netlify.app
-* **LinkedIn:**
-* **Email:** aniketbanerjee12233@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-banerjee)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/aniket_bnrj)
+
+---
+
+## 🚧 Current Projects
+
+- 🔗 Building **Zyraa.app** – A smart platform to help students find roommates, PGs, and nearby services.  
+- 🧱 Working on personal growth and building a sustainable dev career.
+
+---
+
+⭐ Fun Fact:  
+“I believe the best code is the code you never have to write.”  
+
+---
+
+📈 Always grinding. Always learning. Let’s connect!
