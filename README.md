@@ -80,6 +80,3 @@
 
 ---
 
-Feel free to copy and paste this into your GitHub profile README. This layout is designed to be clean, professional, and developer-focused, ensuring that visitors get a comprehensive view of your skills, projects, and aspirations.
-
-If you need further customization or additional sections, such as showcasing specific projects or achievements, don't hesitate to ask!0
