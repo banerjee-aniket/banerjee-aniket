@@ -1,47 +1,85 @@
-# 👋 Hey there, I’m Aniket Banerjee
+# 👋 Hello, I'm Aniket Banerjee
 
-🚀 A passionate BCA Student | Web Developer | Digital Hustler  
-💡 I build web applications, craft innovative solutions, and aim to reach 1 billion in net worth by 26.  
-🌱 Currently leveling up my skills in Full Stack Development and Tech Entrepreneurship.
+🚀 **BCA Student | Web Developer | Aspiring Tech Entrepreneur**
 
----
-
-## 🛠️ Tech Stack
-
-- 🔧 **Languages:** HTML, CSS, JavaScript  
-- 🌐 **Frameworks & Libraries:** Node.js, Express.js  
-- ⚡ **Frontend Tools:** Git, VS Code, Bootstrap  
-- 🗄️ **Database:** MySQL, MongoDB  
-- ☁️ **Deployment:** GitHub Pages, Netlify
+📍 Based in Lucknow, India
 
 ---
 
-## 🌟 About Me
+## 🛠️ Technologies & Tools
 
-- 👨‍💻 Self-taught dev with an obsession for clean code  
-- 📚 Constantly learning, coding, and building things that matter  
-- 💬 Open to collaboration and new challenges  
-- 🎯 Focused on delivering robust, scalable solutions
+**Languages:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
----
+**Frameworks & Libraries:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-## 📫 Connect with me
+**Databases:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-banerjee)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/aniket_bnrj)
-
----
-
-## 🚧 Current Projects
-
-- 🔗 Building **Zyraa.app** – A smart platform to help students find roommates, PGs, and nearby services.  
-- 🧱 Working on personal growth and building a sustainable dev career.
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-⭐ Fun Fact:  
-“I believe the best code is the code you never have to write.”  
+## 📈 GitHub Stats
+
+![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniket-banerjee&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ---
 
-📈 Always grinding. Always learning. Let’s connect!
+## 🌱 Currently Learning
+
+- Full Stack Web Development  
+- MERN Stack (MongoDB, Express, React, Node.js)  
+- UI/UX Design Principles
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-banerjee-0a67a0274)
+
+---
+
+## 🔗 Featured Projects
+
+- **Zyraa.app**: A platform connecting students with roommates and local services.  
+- **Personal Portfolio**: Showcasing my web development projects and skills.
+
+---
+
+## 💬 Fun Fact
+
+"Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+---
+
+## 🎯 Goals
+
+- Contribute to open-source projects.  
+- Build scalable and efficient web applications.  
+- Continuously improve and stay updated with industry trends.
+
+---
+
+## 📌 GitHub Activity
+
+![Aniket's GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=aniket-banerjee&theme=github)
+
+---
+
+## 🧠 Thought of the Day
+
+"Strive not to be a success, but rather to be of value." – Albert Einstein
+
+---
+
+Feel free to copy and paste this into your GitHub profile README. This layout is designed to be clean, professional, and developer-focused, ensuring that visitors get a comprehensive view of your skills, projects, and aspirations.
+
+If you need further customization or additional sections, such as showcasing specific projects or achievements, don't hesitate to ask!0
