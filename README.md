@@ -41,8 +41,8 @@ My long-term goal is to work in **Japan** in embedded systems, robotics, or soft
 
 | Project | What it is |
 |---|---|
-| **[Axiom OS](https://github.com/aniket-banerjee)** | Custom OS concept — my most ambitious long-term project |
-| **[Vision AI](https://github.com/aniket-banerjee)** | AI-powered computer vision tooling |
+| **Axiom OS** | Custom OS concept — my most ambitious long-term project |
+| **Vision AI** | AI-powered computer vision tooling |
 | **Veronica** | Lightweight Python voice assistant running under 150MB RAM |
 | **Zyraa** | Platform connecting students with roommates and local services |
 | **Recoil Drone** | Hardware prototype — drone with custom recoil-management system |
