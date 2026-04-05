@@ -42,7 +42,7 @@ My long-term goal is to work in **Japan** in embedded systems, robotics, or soft
 | Project | What it is |
 |---|---|
 | **Axiom OS** | Custom OS concept — my most ambitious long-term project |
-| **Vision AI** | AI-powered computer vision tooling |
+| **Vision AI])** | AI-powered computer vision tooling |
 | **Veronica** | Lightweight Python voice assistant running under 150MB RAM |
 | **Zyraa** | Platform connecting students with roommates and local services |
 | **Recoil Drone** | Hardware prototype — drone with custom recoil-management system |
@@ -53,8 +53,8 @@ My long-term goal is to work in **Japan** in embedded systems, robotics, or soft
 
 ## GitHub stats
 
-![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniket-banerjee&show_icons=true&hide_title=true&count_private=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-banerjee&layout=compact&theme=tokyonight&hide_border=true)
+![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=banerjee-aniket&show_icons=true&hide_title=true&count_private=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=banerjee-aniket&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
