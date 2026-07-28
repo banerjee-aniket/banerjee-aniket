@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I'm looking to collaborate on remote/freelance dev projects, civic-tech, and anything Rust-related<br><br>🤝 I'm looking for help with breaking into my first junior dev/software engineering role — remote-first, open to freelance/contract work too<br><br>🌱 I'm currently learning Rust (Rust Book + Rustlings, 1-year plan July 2026–2027, goal: build a real backend service solo)<br><br>💬 Ask me about Python, JS/React, SQL, Git, or civic-tech ideas<br><br>⚡ Fun fact: I run CachyOS (Arch-based Linux) as my daily driver, and I've got a 12-year-old Alexandrine parakeet who's basically family
+👯 I'm looking to collaborate on remote/freelance dev projects, civic-tech, and anything Rust-related<br><br>🤝 I'm looking for help with breaking into my first junior dev/software engineering role — remote-first, open to freelance/contract work too<br><br>🌱 I'm currently learning Rust (Rust Book + Rustlings, 1-year plan July 2026–2027, goal: build a real backend service solo)<br><br>💬 Ask me about Python, JS/React, SQL, Git, or civic-tech ideas<br><br>
 
 
 ## 🌐 Socials:
